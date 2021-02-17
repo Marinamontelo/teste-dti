@@ -1,11 +1,11 @@
 # teste-dti
 
-For run the main class for package, execute the follow command: ::
+For run the main class for package (src folder), execute the follow command: ::
   
   javac Main.java
 
 
-For run the main class, execute the follow command: ::
+For run the main class  (src folder), execute the follow command: ::
 
   java Main
   
